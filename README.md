@@ -14,3 +14,5 @@ TMIN : Minimum temperature (tenths of degrees C)
 value : data value for element (tenths of degrees C)
 
 The final visualisation consists of line graph of the record high and record low temperatures by day of the year over the period 2005-2014.Overlaid by a scatter of the 2015 data for any points (highs and lows) for which the ten year record (2005-2014) record high or record low was broken in 2015
+
+This project was made by me as a week 2 assignment for "applied plotting and charting" course on coursera under the data science specialization program offered by University of Michigan on coursera.
